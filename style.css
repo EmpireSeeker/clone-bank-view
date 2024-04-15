@@ -1,0 +1,60 @@
+.rik{ 
+	background-image: linear-gradient(to right, #0b4682B4, #04445e );
+	width: 95%;
+	height: 20%;
+	border-radius: 4%;
+	color: white;
+	margin-left: 2%;
+	
+}
+body{
+	background-color:  #E2DFD2;
+}
+.rik p{
+	margin-left: 3%;
+}
+.mit{
+	display: flex;
+	justify-content: space-between;
+	margin-left: 6%;
+}
+.ob{
+	height: 100px;
+	width: 600px;
+	border:1px solid blue;
+	background-color:  #0b000080;
+	border-radius: 10px;
+	margin-right: 60px;
+	margin-top: 5px;
+}
+.ob i{
+	float: right;
+}
+.ch{
+	background-color: white;
+	height: 70%;
+	width: 95%;
+	margin-left: 15px;
+	justify-content: space-between;
+}
+.re{
+	height: 100px;
+	width: 600px;
+	border:1px solid blue;
+	background-color:  #0b000080;
+	border-radius: 10px;
+	margin-right: 20px;
+	float: right;
+	margin-bottom: 3px;
+}
+.re i{
+	float: right; }
+
+
+
+
+
+
+
+
+
